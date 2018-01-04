@@ -1,9 +1,11 @@
-# practica3
+# Práctica 3. JAVA. Chaxiraxi María Calcines Padilla
 UT03. TIPOS PRIMITIVOS DE DATOS 
 Práctica a Entregar
 Crear un programa en Java que convierta grados Centígrados a grados Fahrenheit.
+
 La fórmula a utilizar es la siguinete: 
 F = C * (9/5) + 32  
+
 Los grados Fahrenheit (°F) son una unidad de temperatura cuyo nombre proviene del físico alemán Gabriel Fahrenheit (1686 - 1736).
 En la escala de temperatura Fahrenheit el punto de congelación del agua es de 32 grados y el punto de ebullición es de 212 grados, 
 desplazando los puntos de ebullición y fusión del agua en 180 grados. Cero grados Fahrenheit indican la temperatura Fahrenheit mínima 
@@ -13,8 +15,8 @@ congelación del agua fuesen 0 grados y el punto de ebullición 100 garados a pr
 estos dos puntos de referencia el término original para este sistema fue centígrados (100 partes).  
 
 Añadir el fichero .gitignore en la raíz del proyecto y configurar Git en el proyecto:  
-# Mac OS .DS_Store 
-# Eclipse project file .settings/ .classpath .project bin/ 
+Mac OS .DS_Store 
+Eclipse project file .settings/ .classpath .project bin/ 
 
 Nota: Recordar que sólo queremos subir la carpeta src/ y el fichero .gitignore a Github.  
 Crear un nuevo repositorio en Github y subir el programa.  
